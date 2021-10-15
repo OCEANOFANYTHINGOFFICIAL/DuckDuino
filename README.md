@@ -16,7 +16,7 @@ https://oceanofanythingofficial.github.io/DuckDuino/
 
   
 
-##  Why Duckuino ?
+##  Why DuckDuino ?
 
 You can compile **Ducky Script** to ***Arduino**, **Digispark** And **MuKeyboard** code directly through the [live](https://oceanofanythingofficial.github.io/DuckDuino/  "DuckDuino Live") version, or reuse `DuckDuino.js` for standalone use :
 
