@@ -1,4 +1,4 @@
-#  Duckuino 
+#  DuckDuino 
 
 Simple **Ducky Script** to **Arduino**, **Digispark** And **MuKeyboard** converter Online.
 
